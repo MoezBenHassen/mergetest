@@ -71,4 +71,5 @@ Marouan Ayed : https://github.com/MDJ-GitHub/Treydi/tree/Marouan_Ayed
 Mohamed Adem Torkhani : https://github.com/MDJ-GitHub/Treydi/tree/Mohamed_Adem_Torkhani
 
 
-[product-screenshot]: desk.png
+
+[product-screenshot]: ROUNDED.png
