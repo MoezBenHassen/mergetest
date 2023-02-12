@@ -4,7 +4,7 @@ Une plate-forme qui permet aux utilisateurs d'échanger des articles avec d'autr
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Nom Groupe : Enigma
+Nom Groupe : Eni
 
 Théme : Troc
 
