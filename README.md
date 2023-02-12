@@ -5,7 +5,7 @@
 <img  width=40% src="reydi1.png" alt="Project logo">
 
 </div>
-<h1 align="center"><b>2022-2023 PIDEV PROJECT</b></h1>
+<h1 align="center"><b>JavaFX PIDEV PROJECT</b></h1>
 
  <p align="center">
  	<!-- Add your tagline or very short intro of your project -->
@@ -30,11 +30,10 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 🧐 About The Project
+![template][product-screenshot]
 
-[![template][product-screenshot]]
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Une plate-forme qui permet aux utilisateurs l'échanger d'articles (physiques, virtuels ou de service) avec d'autres utilisateurs.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
