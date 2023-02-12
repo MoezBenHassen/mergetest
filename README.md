@@ -1,3 +1,9 @@
+<div align="center">
+
+<!-- Add your project logo if you have any -->
+<img width=200px height=200px src="reydi1.png" alt="Project logo">
+
+</div>
 # PIDEV Treydi TEST 6 
 
 Une plate-forme qui permet aux utilisateurs d'échanger des articles avec d'autres articles (physiques, virtuels ou de service) avec d'autres utilisateurs.
