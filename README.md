@@ -64,6 +64,7 @@ La liste préliminaire des Modules est la suivante :
 -   JavaFx
 -   JDBC:MYSQL
 -   phpmyadmin
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr>
 ## 🏁Getting Started
 Ces intructions vous aiderons a setup votre propre copie de <b>Treydi-Desktop</b> sur votre machine, pour le dévelopement ou le test.
@@ -93,7 +94,7 @@ Etapes pour l'installation du projet:
     final String url = "jdbc:mysql://localhost:3306/treydi_db";
     ```
 1. ▶ Run 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr>
 
 ## 📢Contributors
@@ -109,6 +110,7 @@ Etapes pour l'installation du projet:
 -   [@BSnassim](https://www.github.com/BSnassim)
 -   [@MoezBenHassen](https://www.github.com/MoezBenHassen)
 -   [@BSnassim](https://www.github.com/BSnassim) 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr>
 
 ## 📖Contributing
