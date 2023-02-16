@@ -124,15 +124,15 @@ Etapes pour l'installation du projet:
     ```bash
     git checkout -b "your_branch_name"
     ```
-2. Stage your files (`git add .`)
+2. Stage your files 
     ```bash
     git add .
     ```
-3. Commit your first commit (`git commit -m 'initial commit'`)
+3. Commit your first commit 
     ```bash
     git commit -m "initial commit"
     ```
-4. Push to the Branch to the remote (`git push origin your_branch_name`)
+4. Push to the Branch to the remote 
     ```bash
     git push origin your_branch_name
     ```
