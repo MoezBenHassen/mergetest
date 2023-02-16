@@ -1,9 +1,9 @@
-
+<a name="readme-top"></a>
 <div align="center">
 
 <!-- Add your project logo if you have any -->
 <img  width=40% src="treydi3.png" alt="Project logo" >
-<h1 align="center"><b>JavaFX PIDEV PROJECT</b></h1>
+<h1 align="center"><b>JavaFX PIDEV PROJECT</b></h1> 
 <!-- Add your project live demo link here -->
 <a href="https://github.com/github_username/github_repo_link">View Demo</a>
 ·
@@ -22,9 +22,12 @@
 </div>
 
 
+
  <p align="center">
  	<!-- Add your tagline or very short intro of your project -->
-   
+
+   `#0969DA`
+
   </p>
 
 <hr/>
@@ -80,23 +83,67 @@ Etapes pour l'installation du projet:
     ```bash
     git clone https://github.com/MoezBenHassen/Treydi-Desktop.git
     ```
-1. Créer la BD en important le fichier <b>treydi_db.sql</b> dans phpmyadmin
+1. Créer la BD en important le fichier `treydi_db.sql` dans <b>phpmyadmin</b>
 1. Open project dans IntelliJ
-1. File > Project structure > Libraries > add mysql-connector-j.jar
-1. Vérifier l'url dans le fichier Utils><b>MyDB.java</b>
+1. Ajouter le driver jdbc dans &nbsp; `File > Project structure > Libraries > ➕`
+1. Vérifier l'url dans le fichier &nbsp; `Utils>MyDB.java`
     ```java
     final String url = "jdbc:mysql://localhost:3306/treydi_db";
     ```
 1. ▶ Run 
 
 ## 📢Contributors
-Tous les membres de l'équipe qui ont contribué au projet :
+### Ce projet est réalisé par les membres de l'equipe <b>Enigma</b> :
+<div align="center">
+    <img   width=40% height=40% src="enigma-03.png" alt="Project logo" center>
+</div>
+
+
 -   [@MoezBenHassen](https://www.github.com/MoezBenHassen)
 -   [@BSnassim](https://www.github.com/BSnassim)
 -   [@MoezBenHassen](https://www.github.com/MoezBenHassen)
 -   [@BSnassim](https://www.github.com/BSnassim)
 -   [@MoezBenHassen](https://www.github.com/MoezBenHassen)
 -   [@BSnassim](https://www.github.com/BSnassim) 
+
+## 📖Contributing
+
+### 🟣 To contribute as a team member
+1. Clone the project 
+    ```bash
+    git clone https://github.com/MoezBenHassen/Treydi-Desktop.git
+    ```
+2. Create your  Branch 
+    ```bash
+    git checkout -b "your_branch_name"
+    ```
+2. Stage your files (`git add .`)
+    ```bash
+    git add .
+    ```
+3. Commit your first commit (`git commit -m 'initial commit'`)
+    ```bash
+    git commit -m "initial commit"
+    ```
+4. Push to the Branch to the remote (`git push origin your_branch_name`)
+    ```bash
+    git push origin your_branch_name
+    ```
+5. Start working 
+5. when you finish a feature you follow the usual procedure to push work to the remote repository :  
+    ```bash
+    git add .
+    git commit -m " describe your changes "
+    git push origin your_branch_name
+    ```
+
+### 🔴 To contribute as a non team member
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
