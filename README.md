@@ -36,7 +36,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## 🧐 About The Project
-![template][product-screenshot]
+![template](maq.png)
 
 Une plate-forme qui permet aux utilisateurs l'échange d'articles (physiques, virtuels ou de services) avec d'autres utilisateurs.
 
